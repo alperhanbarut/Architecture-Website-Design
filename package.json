@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@fancyapps/ui": "^6.0.22",
+    "@fontsource/nunito": "^5.2.6",
+    "@fontsource/poppins": "^5.2.6",
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "@popperjs/core": "^2.11.8",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.7",
+    "imagehover.css": "^2.0.0",
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
+    "swiper": "^11.2.10",
+    "wowjs": "^1.1.3"
+  }
+}
